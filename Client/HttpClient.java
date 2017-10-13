@@ -5,7 +5,7 @@ import java.net.*;
 import java.util.Scanner;
 
 /**
- * Created by sam on 9/12/17.
+ * Created by Samuel Buahin on 9/12/17.
  */
 
 public class HttpClient {
